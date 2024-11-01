@@ -1,4 +1,8 @@
-<h1  >Muhammad Abdullah Attari</h1>
+<h1 align='center' >Muhammad Abdullah Attari</h1>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-fb127/" target="_blank"> LinkedIn</a> -
+  <a href="https://wa.me/<+923412685261>" target="_blank"> Contact me</a>
+</p>
 <hr>
 <h3>👨🏻‍💻About Me </h3> 
 📱 Android App Developer | Software Engineer <br>
