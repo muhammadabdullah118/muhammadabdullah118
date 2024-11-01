@@ -7,7 +7,8 @@
 <h3>👨🏻‍💻About Me </h3> 
 📱 Android App Developer | Software Engineer <br>
 👨‍🎓 LGU'26 <br>
-📫 How to reach me : muhammadabdullahattari.jk@gmail.com <br>
+📫 How to reach me: muhammadabdullahattari.jk@gmail.com <br>
+💬 Ask me about Android/ Kotlin/ OOP/ DSA/ SRS/ SDLC
 
 
 ## GSSOC(24) Badges 🪶
@@ -24,4 +25,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-</div>
+</div> <br> <br>
+
+<p align='center >Show some ❤️ by starring some of the repositories!.</p>
