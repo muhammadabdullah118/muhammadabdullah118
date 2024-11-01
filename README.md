@@ -25,6 +25,5 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-</div> <br> <br>
-
-<p align='center >Show some ❤️ by starring some of the repositories!.</p>
+</div>  <br> <br>
+<p align='center' >Show some ❤️ by starring some of the repositories!.</p>
