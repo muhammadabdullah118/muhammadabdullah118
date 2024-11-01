@@ -1,12 +1,10 @@
-<h1>Muhammad Abdullah Attari</h1>
-<br/>
-- 👋 Hi, I’m @muhammadabdullah118
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1  >Muhammad Abdullah Attari</h1>
+<hr>
+<h3>👨🏻‍💻About Me </h3> 
+📱 Android App Developer | Software Engineer <br>
+👨‍🎓 LGU'26 <br>
+📫 How to reach me : muhammadabdullahattari.jk@gmail.com <br>
+
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
